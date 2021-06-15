@@ -4,7 +4,7 @@ function Nav() {
     return(
         <Fragment>
             <nav className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-                <a className="navbar-brand js-scroll-trigger" href="#page-top">
+                <a className="navbar-brand js-scroll-trigger" href="">
                     <span className="d-block d-lg-none">Mauricio Ballesteros</span>
                     <span className="d-none d-lg-block"><img className="img-fluid img-profile rounded-circle mx-auto mb-2" src="/reactpage/assets/img/profile.jpg" alt="..." /></span>
                 </a>
